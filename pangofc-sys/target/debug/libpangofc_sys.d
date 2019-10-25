@@ -1,0 +1,1 @@
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/libpangofc_sys.rlib: /Users/velislavayanchina/Projects/pangofc/pangofc-sys/build.rs /Users/velislavayanchina/Projects/pangofc/pangofc-sys/src/lib.rs

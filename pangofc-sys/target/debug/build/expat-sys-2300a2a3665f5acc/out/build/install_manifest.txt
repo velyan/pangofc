@@ -1,0 +1,4 @@
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/lib/libexpat.a
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/include/expat.h
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/include/expat_external.h
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/lib/pkgconfig/expat.pc

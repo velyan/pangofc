@@ -1,0 +1,1 @@
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/abi-0de071d0ed09f0e0: /Users/velislavayanchina/Projects/pangofc/pangofc-sys/build.rs /Users/velislavayanchina/Projects/pangofc/pangofc-sys/src/lib.rs /Users/velislavayanchina/Projects/pangofc/pangofc-sys/tests/abi.rs

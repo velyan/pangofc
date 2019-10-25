@@ -1,0 +1,58 @@
+Determining if the off_t exist failed with the following output:
+Change Dir: /Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7c315/fast 
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_7c315.dir/build.make CMakeFiles/cmTC_7c315.dir/build
+Building C object CMakeFiles/cmTC_7c315.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -ffunction-sections -fdata-sections -fPIC -m64  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_7c315.dir/CheckSymbolExists.c.o   -c /Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: unexpected type name 'off_t': expected expression
+  return ((int*)(&off_t))[argc];
+                  ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_7c315.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_7c315/fast] Error 2
+
+File /Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/types.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef off_t
+  return ((int*)(&off_t))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the size_t exist failed with the following output:
+Change Dir: /Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_80611/fast 
+/Applications/Xcode.app/Contents/Developer/usr/bin/make -f CMakeFiles/cmTC_80611.dir/build.make CMakeFiles/cmTC_80611.dir/build
+Building C object CMakeFiles/cmTC_80611.dir/CheckSymbolExists.c.o
+/usr/bin/cc   -ffunction-sections -fdata-sections -fPIC -m64  -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/cmTC_80611.dir/CheckSymbolExists.c.o   -c /Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: unexpected type name 'size_t': expected expression
+  return ((int*)(&size_t))[argc];
+                  ^
+1 error generated.
+make[1]: *** [CMakeFiles/cmTC_80611.dir/CheckSymbolExists.c.o] Error 1
+make: *** [cmTC_80611/fast] Error 2
+
+File /Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <sys/types.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef size_t
+  return ((int*)(&size_t))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

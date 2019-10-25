@@ -1,0 +1,7 @@
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/install/local.dir
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/install/strip.dir
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/install.dir
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/list_install_components.dir
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/rebuild_cache.dir
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/edit_cache.dir
+/Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/build/CMakeFiles/expat.dir

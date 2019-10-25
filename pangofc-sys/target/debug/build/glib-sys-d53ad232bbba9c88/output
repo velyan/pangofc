@@ -1,0 +1,5 @@
+cargo:rustc-link-search=native=/usr/local/Cellar/glib/2.62.0_1/lib
+cargo:rustc-link-search=native=/usr/local/opt/gettext/lib
+cargo:rustc-link-lib=glib-2.0
+cargo:rustc-link-lib=intl
+cargo:include=/usr/local/Cellar/glib/2.62.0_1/include/glib-2.0:/usr/local/Cellar/glib/2.62.0_1/lib/glib-2.0/include:/usr/local/opt/gettext/include:/usr/local/Cellar/pcre/8.43/include

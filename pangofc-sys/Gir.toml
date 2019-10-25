@@ -1,0 +1,14 @@
+[options]
+work_mode = "sys"
+library = "PangoFc"
+version = "1.0"
+min_cfg_version = "1.44"
+target_path = "."
+
+external_libraries = [
+    "GLib",
+    "Pango",
+    "GObject",
+    "fontconfig",
+    # "servo-fontconfig",
+]

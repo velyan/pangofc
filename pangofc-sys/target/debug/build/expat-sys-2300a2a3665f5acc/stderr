@@ -1,0 +1,6 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libexpat.a(xmltok_impl.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libexpat.a(xmltok_ns.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libexpat.a(xmltok_impl.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: libexpat.a(xmltok_ns.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/lib/libexpat.a(xmltok_impl.c.o) has no symbols
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib: file: /Users/velislavayanchina/Projects/pangofc/pangofc-sys/target/debug/build/expat-sys-2300a2a3665f5acc/out/lib/libexpat.a(xmltok_ns.c.o) has no symbols
